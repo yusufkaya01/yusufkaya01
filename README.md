@@ -47,5 +47,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=yusufkaya01&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
+### 😂 Random Dev Meme
+<img src="https://dog.ceo/api/breeds/image/random" alt="Random Meme" style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
