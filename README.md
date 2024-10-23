@@ -45,6 +45,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=yusufkaya01&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yusufkaya01&icon=4&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=yusufkaya01&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
